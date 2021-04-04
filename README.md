@@ -24,6 +24,6 @@ Entering screen size with a tuple (x, y) will start the program in windowed mode
 with the specified size.
 
 ## Not yet implemented features
-ui for setting up simulation
-behaviour for collision between planets
+* ui for setting up simulation
+* behaviour for collision between planets
 
