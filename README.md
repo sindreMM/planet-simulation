@@ -6,7 +6,10 @@ This is a program for simulating the movement of planets
 
 ## Prerequisites
 To run this program, the required packages are:
-Pillow, Numpy, PyWin32 and Sys
+* Opencv-python
+* Numpy 
+* PyWin32
+* Sys
 
 ## Running the program
 Start by importing the Planet-class and start_simulation-function from
