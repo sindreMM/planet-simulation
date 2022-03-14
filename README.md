@@ -5,7 +5,7 @@
 This is a program for simulating the movement of planets
 
 ## Prerequisites
-To run this program, the required packages are:
+Required libraries:
 * Opencv-python
 * Numpy 
 * PyWin32
@@ -22,8 +22,4 @@ the simulation with a time step of 0.2 and fullscreen mode. Entering other
 values for the time step will give change the speed and accuracy of the simulation.
 Entering screen size with a tuple (x, y) will start the program in windowed mode
 with the specified size.
-
-## Not yet implemented features
-* ui for setting up simulation
-* behaviour for collision between planets
 
